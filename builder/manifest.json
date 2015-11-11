@@ -1,8 +1,8 @@
 {
-  "build_hash": "34955614ce73c8da106ce37db51acc75",
+  "build_hash": "3ff0c11555f578ef212d4213a7e32dee",
   "prefix": "ion-",
   "version": "2.0.1",
-  "name": "Ionicons",
+  "name": "TafeIcons",
   "icons": [
     {
       "code": "0xf101",
