@@ -1,8 +1,8 @@
 {
-  "build_hash": "34955614ce73c8da106ce37db51acc75",
+  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
   "prefix": "ion-",
   "version": "2.0.1",
-  "name": "TafeIcons",
+  "name": "Ionicons",
   "icons": [
     {
       "code": "0xf101",
@@ -717,10 +717,6 @@
       "name": "cash"
     },
     {
-      "code": "0xf138",
-      "name": "chat"
-    },
-    {
       "code": "0xf11b",
       "name": "chatbox"
     },
@@ -745,10 +741,6 @@
       "name": "chatbubbles"
     },
     {
-      "code": "0xf25d",
-      "name": "checkin"
-    },
-    {
       "code": "0xf122",
       "name": "checkmark"
     },
@@ -759,14 +751,6 @@
     {
       "code": "0xf121",
       "name": "checkmark-round"
-    },
-    {
-      "code": "0xf2b9",
-      "name": "chev-down"
-    },
-    {
-      "code": "0xf25c",
-      "name": "chev-up"
     },
     {
       "code": "0xf123",
@@ -783,10 +767,6 @@
     {
       "code": "0xf126",
       "name": "chevron-up"
-    },
-    {
-      "code": "0xf25b",
-      "name": "circle-chev-right"
     },
     {
       "code": "0xf127",
@@ -849,16 +829,8 @@
       "name": "contrast"
     },
     {
-      "code": "0xf25a",
-      "name": "course-search"
-    },
-    {
       "code": "0xf3c1",
       "name": "crop"
-    },
-    {
-      "code": "0xf13b",
-      "name": "cross-circle"
     },
     {
       "code": "0xf318",
@@ -907,10 +879,6 @@
     {
       "code": "0xf3c3",
       "name": "email-unread"
-    },
-    {
-      "code": "0xf259",
-      "name": "envelope"
     },
     {
       "code": "0xf3c5",
@@ -1007,10 +975,6 @@
     {
       "code": "0xf140",
       "name": "headphone"
-    },
-    {
-      "code": "0xf258",
-      "name": "headset"
     },
     {
       "code": "0xf141",
@@ -2849,10 +2813,6 @@
       "name": "star"
     },
     {
-      "code": "0xf254",
-      "name": "start-enroll"
-    },
-    {
       "code": "0xf2b5",
       "name": "stats-bars"
     },
@@ -2863,10 +2823,6 @@
     {
       "code": "0xf24f",
       "name": "stop"
-    },
-    {
-      "code": "0xf357",
-      "name": "telephone"
     },
     {
       "code": "0xf2b6",
@@ -2917,68 +2873,68 @@
       "name": "umbrella"
     },
     {
-      "code": "0xf13c",
-      "name": "university"
+      "code": "0xf357",
+      "name": "telephone"
     },
     {
-      "code": "0xf145",
-      "name": "unlocked"
+      "code": "0xf254",
+      "name": "start-enroll"
     },
     {
-      "code": "0xf146",
-      "name": "upload"
+      "code": "0xf255",
+      "name": "search"
     },
     {
-      "code": "0xf14c",
-      "name": "usb"
+      "code": "0xf2b8",
+      "name": "person"
     },
     {
-      "code": "0xf14d",
-      "name": "videocamera"
+      "code": "0xf256",
+      "name": "home"
     },
     {
-      "code": "0xf14e",
-      "name": "volume-high"
+      "code": "0xf257",
+      "name": "help"
     },
     {
-      "code": "0xf14f",
-      "name": "volume-low"
+      "code": "0xf258",
+      "name": "headset"
     },
     {
-      "code": "0xf150",
-      "name": "volume-medium"
+      "code": "0xf259",
+      "name": "envelope"
     },
     {
-      "code": "0xf151",
-      "name": "volume-mute"
+      "code": "0xf25a",
+      "name": "course-search"
     },
     {
-      "code": "0xf152",
-      "name": "wand"
+      "code": "0xf358",
+      "name": "course-search"
     },
     {
-      "code": "0xf153",
-      "name": "waterdrop"
+      "code": "0xf25b",
+      "name": "circle-chev-right"
     },
     {
-      "code": "0xf154",
-      "name": "wifi"
+      "code": "0xf25c",
+      "name": "chev-up"
     },
     {
-      "code": "0xf155",
-      "name": "wineglass"
+      "code": "0xf2b9",
+      "name": "chev-down"
     },
     {
-      "code": "0xf156",
-      "name": "woman"
+      "code": "0xf25d",
+      "name": "checkin"
     },
     {
       "code": "0xf2ba",
       "name": "wrench"
     },
     {
-      "code": "0xf157",
-      "name": "xbox"
+      "code": "0xf30c",
+      "name": "telephone"
     }
   ]
 }
