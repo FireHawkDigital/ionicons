@@ -8,7 +8,7 @@
         "tests"
     ],
     "version": "2.0.1",
-    "name": "Ionicons",
+    "name": "TafeIcons",
     "license": "MIT",
     "authors": [
         "Ben Sperry <ben@drifty.com>",
@@ -23,7 +23,7 @@
         "web font"
     ],
     "main": [
-        "css/ionicons.css",
+        "css/tafeicons.css",
         "fonts/*"
     ],
     "homepage": "https://github.com/driftyco/ionicons",
