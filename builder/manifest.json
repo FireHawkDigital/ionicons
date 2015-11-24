@@ -1,5 +1,5 @@
 {
-  "build_hash": "3065a88206325a2030dd0e29aba16adb",
+  "build_hash": "44d1fc16b091c756b24b3d49f887f1d7",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "TafeIcons",
@@ -979,6 +979,10 @@
     {
       "code": "0xf13a",
       "name": "forward"
+    },
+    {
+      "code": "0xf159",
+      "name": "frown"
     },
     {
       "code": "0xf31b",
@@ -2507,6 +2511,10 @@
     {
       "code": "0xf223",
       "name": "skip-forward"
+    },
+    {
+      "code": "0xf158",
+      "name": "smile"
     },
     {
       "code": "0xf225",
