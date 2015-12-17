@@ -1,5 +1,5 @@
 {
-  "build_hash": "44d1fc16b091c756b24b3d49f887f1d7",
+  "build_hash": "d1ca0c25a88bf288c181ff52274e4976",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "TafeIcons",
@@ -1019,6 +1019,10 @@
     {
       "code": "0xf258",
       "name": "headset"
+    },
+    {
+      "code": "0xf15a",
+      "name": "headset-person"
     },
     {
       "code": "0xf141",
