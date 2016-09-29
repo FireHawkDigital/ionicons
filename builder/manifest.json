@@ -1,5 +1,5 @@
 {
-  "build_hash": "9c7ff901a322c49733b3268d0a831a11",
+  "build_hash": "b46bb2b6e45d97f882083fcfcd819cae",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "TafeIcons",
@@ -2323,6 +2323,10 @@
     {
       "code": "0xf2c2",
       "name": "no-smoking"
+    },
+    {
+      "code": "0xf15b",
+      "name": "now-chat"
     },
     {
       "code": "0xf2a4",
