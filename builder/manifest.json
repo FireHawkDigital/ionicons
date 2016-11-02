@@ -1,5 +1,5 @@
 {
-  "build_hash": "41fa8e91fd4616fbb554d5603e4f76d0",
+  "build_hash": "ee2ea1306e9127bf98ff1fc745a8c89c",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "TafeIcons",
@@ -2335,6 +2335,10 @@
     {
       "code": "0xf2a4",
       "name": "nuclear"
+    },
+    {
+      "code": "0xf15d",
+      "name": "open-door"
     },
     {
       "code": "0xf342",
