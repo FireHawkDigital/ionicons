@@ -1,5 +1,5 @@
 {
-  "build_hash": "dbfd3bd2adac667a01f982378d66b1ac",
+  "build_hash": "41fa8e91fd4616fbb554d5603e4f76d0",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "TafeIcons",
@@ -855,6 +855,10 @@
     {
       "code": "0xf358",
       "name": "course-search"
+    },
+    {
+      "code": "0xf15c",
+      "name": "cp-login"
     },
     {
       "code": "0xf3c1",

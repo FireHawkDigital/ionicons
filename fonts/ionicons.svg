@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-9-30: Created with FontForge (http://fontforge.org)
+2016-11-2: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Fri Sep 30 10:19:45 2016
+Created by FontForge 20160407 at Wed Nov  2 16:40:06 2016
  By Throwr
 Copyright (c) 2016, Throwr
 </metadata>
@@ -547,6 +547,8 @@ d="M224 416c124 0 224 -100 224 -224s-100 -224 -224 -224s-224 100 -224 224s100 22
 d="M225 376l-122 63c-27 14 -82 -14 -97 -38c-7 -11 -6 -19 -6 -23l2 -231c0 -5 7 -12 12 -15c11 -7 178 -111 183 -114c3 -2 5 -2 8 -2s5 1 7 2c5 2 9 7 9 12v243c0 5 -3 9 -8 12l-181 101c2 4 10 12 25 20c16 8 27 5 30 4c0 0 80 -43 133 -71c0 13 1 25 5 37zM271 236
 v-160c0 -11 11 -16 20 -16s18 8 18 16v139c-14 5 -27 12 -38 21zM503 217l-64 64c10 16 16 34 16 54c0 58 -50 108 -108 108s-105 -47 -105 -105s50 -108 108 -108c19 0 38 6 53 15l64 -65c6 -6 17 -6 23 0l16 16c6 6 3 15 -3 21zM274 338c0 40 33 73 73 73s75 -36 75 -76
 s-32 -72 -72 -72s-76 35 -76 75v0z" />
+    <glyph glyph-name="ion-cp-login" unicode="&#xf15c;" horiz-adv-x="461" 
+d="M333 192l-154 -128v77h-179v102h179v77zM410 13v358h-205v51h205c28 0 51 -23 51 -51v-358c0 -28 -23 -51 -51 -51h-205v51h205z" />
     <glyph glyph-name="ion-crop" unicode="&#xf3c1;" 
 d="M320 -32v48h64v-48h-64zM384 96h64v-64h-384v256h-64v64h64v64h64v-320h192v192h-176v64h240v-256z" />
     <glyph glyph-name="ion-cross-circle" unicode="&#xf13b;" horiz-adv-x="473" 
