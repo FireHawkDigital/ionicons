@@ -2,6 +2,9 @@
 // --------------------------
 
 .tafeicons,
+.#{$ionicons-prefix}Sustainability:before,
+.#{$ionicons-prefix}Tourism, Events and Aviation:before,
+.#{$ionicons-prefix}Workplace compliance health and saftey:before,
 .#{$ionicons-prefix}alert:before,
 .#{$ionicons-prefix}alert-circled:before,
 .#{$ionicons-prefix}android-add:before,
@@ -723,6 +726,39 @@
 .#{$ionicons-prefix}stats-bars:before,
 .#{$ionicons-prefix}steam:before,
 .#{$ionicons-prefix}stop:before,
+.#{$ionicons-prefix}study-access:before,
+.#{$ionicons-prefix}study-agriculture:before,
+.#{$ionicons-prefix}study-allied:before,
+.#{$ionicons-prefix}study-animals:before,
+.#{$ionicons-prefix}study-art:before,
+.#{$ionicons-prefix}study-automotive:before,
+.#{$ionicons-prefix}study-business:before,
+.#{$ionicons-prefix}study-chef:before,
+.#{$ionicons-prefix}study-community:before,
+.#{$ionicons-prefix}study-construction:before,
+.#{$ionicons-prefix}study-design:before,
+.#{$ionicons-prefix}study-education:before,
+.#{$ionicons-prefix}study-electric:before,
+.#{$ionicons-prefix}study-family:before,
+.#{$ionicons-prefix}study-fashion:before,
+.#{$ionicons-prefix}study-finance:before,
+.#{$ionicons-prefix}study-hair:before,
+.#{$ionicons-prefix}study-handshake:before,
+.#{$ionicons-prefix}study-it:before,
+.#{$ionicons-prefix}study-lab:before,
+.#{$ionicons-prefix}study-library:before,
+.#{$ionicons-prefix}study-manage:before,
+.#{$ionicons-prefix}study-manufacture:before,
+.#{$ionicons-prefix}study-marine:before,
+.#{$ionicons-prefix}study-marketing:before,
+.#{$ionicons-prefix}study-music:before,
+.#{$ionicons-prefix}study-natural:before,
+.#{$ionicons-prefix}study-nursing:before,
+.#{$ionicons-prefix}study-realestate:before,
+.#{$ionicons-prefix}study-resources:before,
+.#{$ionicons-prefix}study-retail:before,
+.#{$ionicons-prefix}study-sport:before,
+.#{$ionicons-prefix}study-web:before,
 .#{$ionicons-prefix}telephone:before,
 .#{$ionicons-prefix}thermometer:before,
 .#{$ionicons-prefix}thumbsdown:before,
@@ -755,6 +791,9 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}Sustainability:before { content: $ionicon-var-Sustainability; }
+.#{$ionicons-prefix}Tourism, Events and Aviation:before { content: $ionicon-var-Tourism, Events and Aviation; }
+.#{$ionicons-prefix}Workplace compliance health and saftey:before { content: $ionicon-var-Workplace compliance health and saftey; }
 .#{$ionicons-prefix}alert:before { content: $ionicon-var-alert; }
 .#{$ionicons-prefix}alert-circled:before { content: $ionicon-var-alert-circled; }
 .#{$ionicons-prefix}android-add:before { content: $ionicon-var-android-add; }
@@ -1476,6 +1515,39 @@
 .#{$ionicons-prefix}stats-bars:before { content: $ionicon-var-stats-bars; }
 .#{$ionicons-prefix}steam:before { content: $ionicon-var-steam; }
 .#{$ionicons-prefix}stop:before { content: $ionicon-var-stop; }
+.#{$ionicons-prefix}study-access:before { content: $ionicon-var-study-access; }
+.#{$ionicons-prefix}study-agriculture:before { content: $ionicon-var-study-agriculture; }
+.#{$ionicons-prefix}study-allied:before { content: $ionicon-var-study-allied; }
+.#{$ionicons-prefix}study-animals:before { content: $ionicon-var-study-animals; }
+.#{$ionicons-prefix}study-art:before { content: $ionicon-var-study-art; }
+.#{$ionicons-prefix}study-automotive:before { content: $ionicon-var-study-automotive; }
+.#{$ionicons-prefix}study-business:before { content: $ionicon-var-study-business; }
+.#{$ionicons-prefix}study-chef:before { content: $ionicon-var-study-chef; }
+.#{$ionicons-prefix}study-community:before { content: $ionicon-var-study-community; }
+.#{$ionicons-prefix}study-construction:before { content: $ionicon-var-study-construction; }
+.#{$ionicons-prefix}study-design:before { content: $ionicon-var-study-design; }
+.#{$ionicons-prefix}study-education:before { content: $ionicon-var-study-education; }
+.#{$ionicons-prefix}study-electric:before { content: $ionicon-var-study-electric; }
+.#{$ionicons-prefix}study-family:before { content: $ionicon-var-study-family; }
+.#{$ionicons-prefix}study-fashion:before { content: $ionicon-var-study-fashion; }
+.#{$ionicons-prefix}study-finance:before { content: $ionicon-var-study-finance; }
+.#{$ionicons-prefix}study-hair:before { content: $ionicon-var-study-hair; }
+.#{$ionicons-prefix}study-handshake:before { content: $ionicon-var-study-handshake; }
+.#{$ionicons-prefix}study-it:before { content: $ionicon-var-study-it; }
+.#{$ionicons-prefix}study-lab:before { content: $ionicon-var-study-lab; }
+.#{$ionicons-prefix}study-library:before { content: $ionicon-var-study-library; }
+.#{$ionicons-prefix}study-manage:before { content: $ionicon-var-study-manage; }
+.#{$ionicons-prefix}study-manufacture:before { content: $ionicon-var-study-manufacture; }
+.#{$ionicons-prefix}study-marine:before { content: $ionicon-var-study-marine; }
+.#{$ionicons-prefix}study-marketing:before { content: $ionicon-var-study-marketing; }
+.#{$ionicons-prefix}study-music:before { content: $ionicon-var-study-music; }
+.#{$ionicons-prefix}study-natural:before { content: $ionicon-var-study-natural; }
+.#{$ionicons-prefix}study-nursing:before { content: $ionicon-var-study-nursing; }
+.#{$ionicons-prefix}study-realestate:before { content: $ionicon-var-study-realestate; }
+.#{$ionicons-prefix}study-resources:before { content: $ionicon-var-study-resources; }
+.#{$ionicons-prefix}study-retail:before { content: $ionicon-var-study-retail; }
+.#{$ionicons-prefix}study-sport:before { content: $ionicon-var-study-sport; }
+.#{$ionicons-prefix}study-web:before { content: $ionicon-var-study-web; }
 .#{$ionicons-prefix}telephone:before { content: $ionicon-var-telephone; }
 .#{$ionicons-prefix}thermometer:before { content: $ionicon-var-thermometer; }
 .#{$ionicons-prefix}thumbsdown:before { content: $ionicon-var-thumbsdown; }

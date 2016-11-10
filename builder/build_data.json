@@ -1,9 +1,21 @@
 {
-  "build_hash": "41fa8e91fd4616fbb554d5603e4f76d0",
+  "build_hash": "ee2ea1306e9127bf98ff1fc745a8c89c",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "TafeIcons",
   "icons": [
+    {
+      "code": "0xf17f",
+      "name": "Sustainability"
+    },
+    {
+      "code": "0xf180",
+      "name": "Tourism, Events and Aviation"
+    },
+    {
+      "code": "0xf181",
+      "name": "Workplace compliance health and saftey"
+    },
     {
       "code": "0xf101",
       "name": "alert"
@@ -2887,6 +2899,138 @@
     {
       "code": "0xf24f",
       "name": "stop"
+    },
+    {
+      "code": "0xf15e",
+      "name": "study-access"
+    },
+    {
+      "code": "0xf15f",
+      "name": "study-agriculture"
+    },
+    {
+      "code": "0xf160",
+      "name": "study-allied"
+    },
+    {
+      "code": "0xf161",
+      "name": "study-animals"
+    },
+    {
+      "code": "0xf162",
+      "name": "study-art"
+    },
+    {
+      "code": "0xf163",
+      "name": "study-automotive"
+    },
+    {
+      "code": "0xf164",
+      "name": "study-business"
+    },
+    {
+      "code": "0xf165",
+      "name": "study-chef"
+    },
+    {
+      "code": "0xf166",
+      "name": "study-community"
+    },
+    {
+      "code": "0xf167",
+      "name": "study-construction"
+    },
+    {
+      "code": "0xf168",
+      "name": "study-design"
+    },
+    {
+      "code": "0xf169",
+      "name": "study-education"
+    },
+    {
+      "code": "0xf16a",
+      "name": "study-electric"
+    },
+    {
+      "code": "0xf16b",
+      "name": "study-family"
+    },
+    {
+      "code": "0xf16c",
+      "name": "study-fashion"
+    },
+    {
+      "code": "0xf16d",
+      "name": "study-finance"
+    },
+    {
+      "code": "0xf16e",
+      "name": "study-hair"
+    },
+    {
+      "code": "0xf16f",
+      "name": "study-handshake"
+    },
+    {
+      "code": "0xf170",
+      "name": "study-it"
+    },
+    {
+      "code": "0xf171",
+      "name": "study-lab"
+    },
+    {
+      "code": "0xf172",
+      "name": "study-library"
+    },
+    {
+      "code": "0xf173",
+      "name": "study-manage"
+    },
+    {
+      "code": "0xf174",
+      "name": "study-manufacture"
+    },
+    {
+      "code": "0xf175",
+      "name": "study-marine"
+    },
+    {
+      "code": "0xf176",
+      "name": "study-marketing"
+    },
+    {
+      "code": "0xf177",
+      "name": "study-music"
+    },
+    {
+      "code": "0xf178",
+      "name": "study-natural"
+    },
+    {
+      "code": "0xf179",
+      "name": "study-nursing"
+    },
+    {
+      "code": "0xf17a",
+      "name": "study-realestate"
+    },
+    {
+      "code": "0xf17b",
+      "name": "study-resources"
+    },
+    {
+      "code": "0xf17c",
+      "name": "study-retail"
+    },
+    {
+      "code": "0xf17d",
+      "name": "study-sport"
+    },
+    {
+      "code": "0xf17e",
+      "name": "study-web"
     },
     {
       "code": "0xf357",
