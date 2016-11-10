@@ -1,5 +1,5 @@
 {
-  "build_hash": "ee2ea1306e9127bf98ff1fc745a8c89c",
+  "build_hash": "83ff3f9a20461bcba6350042785c712d",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "TafeIcons",
@@ -7,14 +7,6 @@
     {
       "code": "0xf17f",
       "name": "Sustainability"
-    },
-    {
-      "code": "0xf180",
-      "name": "Tourism, Events and Aviation"
-    },
-    {
-      "code": "0xf181",
-      "name": "Workplace compliance health and saftey"
     },
     {
       "code": "0xf101",
@@ -3025,8 +3017,16 @@
       "name": "study-retail"
     },
     {
+      "code": "0xf183",
+      "name": "study-safety"
+    },
+    {
       "code": "0xf17d",
       "name": "study-sport"
+    },
+    {
+      "code": "0xf182",
+      "name": "study-tourism"
     },
     {
       "code": "0xf17e",

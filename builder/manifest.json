@@ -1,5 +1,5 @@
 {
-  "build_hash": "58b3087cd6c9ebf1800768bbb4835141",
+  "build_hash": "d47e5f2816c03f12d6476644b4101b9c",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "TafeIcons",
@@ -3041,8 +3041,16 @@
       "name": "study-retail"
     },
     {
+      "code": "0xf183",
+      "name": "study-safety"
+    },
+    {
       "code": "0xf17d",
       "name": "study-sport"
+    },
+    {
+      "code": "0xf182",
+      "name": "study-tourism"
     },
     {
       "code": "0xf17e",

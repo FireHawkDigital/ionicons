@@ -3,8 +3,6 @@
 
 .tafeicons,
 .#{$ionicons-prefix}Sustainability:before,
-.#{$ionicons-prefix}Tourism, Events and Aviation:before,
-.#{$ionicons-prefix}Workplace compliance health and saftey:before,
 .#{$ionicons-prefix}alert:before,
 .#{$ionicons-prefix}alert-circled:before,
 .#{$ionicons-prefix}android-add:before,
@@ -757,7 +755,9 @@
 .#{$ionicons-prefix}study-realestate:before,
 .#{$ionicons-prefix}study-resources:before,
 .#{$ionicons-prefix}study-retail:before,
+.#{$ionicons-prefix}study-safety:before,
 .#{$ionicons-prefix}study-sport:before,
+.#{$ionicons-prefix}study-tourism:before,
 .#{$ionicons-prefix}study-web:before,
 .#{$ionicons-prefix}telephone:before,
 .#{$ionicons-prefix}thermometer:before,
@@ -792,8 +792,6 @@
   @extend .ion;
 }
 .#{$ionicons-prefix}Sustainability:before { content: $ionicon-var-Sustainability; }
-.#{$ionicons-prefix}Tourism, Events and Aviation:before { content: $ionicon-var-Tourism, Events and Aviation; }
-.#{$ionicons-prefix}Workplace compliance health and saftey:before { content: $ionicon-var-Workplace compliance health and saftey; }
 .#{$ionicons-prefix}alert:before { content: $ionicon-var-alert; }
 .#{$ionicons-prefix}alert-circled:before { content: $ionicon-var-alert-circled; }
 .#{$ionicons-prefix}android-add:before { content: $ionicon-var-android-add; }
@@ -1546,7 +1544,9 @@
 .#{$ionicons-prefix}study-realestate:before { content: $ionicon-var-study-realestate; }
 .#{$ionicons-prefix}study-resources:before { content: $ionicon-var-study-resources; }
 .#{$ionicons-prefix}study-retail:before { content: $ionicon-var-study-retail; }
+.#{$ionicons-prefix}study-safety:before { content: $ionicon-var-study-safety; }
 .#{$ionicons-prefix}study-sport:before { content: $ionicon-var-study-sport; }
+.#{$ionicons-prefix}study-tourism:before { content: $ionicon-var-study-tourism; }
 .#{$ionicons-prefix}study-web:before { content: $ionicon-var-study-web; }
 .#{$ionicons-prefix}telephone:before { content: $ionicon-var-telephone; }
 .#{$ionicons-prefix}thermometer:before { content: $ionicon-var-thermometer; }
