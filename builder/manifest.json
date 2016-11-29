@@ -1,5 +1,5 @@
 {
-  "build_hash": "d47e5f2816c03f12d6476644b4101b9c",
+  "build_hash": "7ab6d3e820b17306c5f2c432c978b0ba",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "TafeIcons",
@@ -535,6 +535,26 @@
     {
       "code": "0xf305",
       "name": "android-wifi"
+    },
+    {
+      "code": "0xf184",
+      "name": "ap-calender"
+    },
+    {
+      "code": "0xf185",
+      "name": "ap-chat"
+    },
+    {
+      "code": "0xf186",
+      "name": "ap-envelope"
+    },
+    {
+      "code": "0xf187",
+      "name": "ap-mail"
+    },
+    {
+      "code": "0xf188",
+      "name": "ap-phone"
     },
     {
       "code": "0xf313",
